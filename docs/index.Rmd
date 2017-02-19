@@ -7,7 +7,7 @@ output:
     theme: moon
     highlight: pygments
     center: false
-    transition: slide
+    transition: fade
     reveal_options:
       navigation: false
       progress: false
@@ -17,11 +17,10 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```
 
 ## R Markdown
-
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
@@ -33,10 +32,11 @@ When you click the **Knit** button a document will be generated that includes bo
 1. Let's add another, just for fun
 </div>
 <div id="right">
->- More can be added here
->- And more after that
->- I'm tired of this now
+- More can be added here
+- And more after that
+- I'm tired of this now
 </div>
+
 ## Slide with R Output
 
 ```{r cars, echo = TRUE}
