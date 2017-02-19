@@ -1,0 +1,51 @@
+---
+title: "Presentation Demo"
+author: "Dr. Clifton Franklund"
+date: "2/19/2017"
+output:
+  revealjs::revealjs_presentation:
+    theme: moon
+    highlight: pygments
+    center: false
+    transition: slide
+    reveal_options:
+      navigation: false
+      progress: false
+      slideNumber: false
+      controls: false
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+<div id="left">
+1. This is the first bullet
+1. This is another bullet
+1. Let's add another, just for fun
+</div>
+<div id="right">
+>- More can be added here
+>- And more after that
+>- I'm tired of this now
+</div>
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
