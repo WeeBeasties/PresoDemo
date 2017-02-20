@@ -1,7 +1,7 @@
 ---
-title: "Presentation Demo"
-author: "Dr. Clifton Franklund"
-date: "2/19/2017"
+title: 
+author: 
+date: 
 output:
   revealjs::revealjs_presentation:
     theme: moon
@@ -19,6 +19,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```
+
+## {data-background="http://img1.wikia.nocookie.net/__cb20100706023807/familyguy/images/c/c7/Tauntaun.png"}
+<div>Clifton Franklund</div>
 
 ## R Markdown
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
