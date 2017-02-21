@@ -1,6 +1,6 @@
 ---
-title: Presentation Demo Title That Probably Wraps
-subtitle: This is sort of cool subtitle, but it is rather long
+title: Assessing General Education Program Outcomes
+subtitle:  Systematic Use of Course-Level Student Data
 author: Dr. Clifton Franklund
 job: General Education Coordinator
 date: Spring 2017
@@ -22,10 +22,53 @@ output:
 knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```
 
-## R Markdown
+## About Ferris State University
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Revised General Education
+
+## What is assessment anyhow?
+
+## Focusing the discussion
+
+## Sustainable assessment
+<br  /> 
+<div style="font-size: 1.5em; font-weight: 800;">
+>- Simplify  
+>- Standardize  
+>- Automate  
+
+</div>
+
+## Reproducible assessment
+
+## Competencies and FLOs
+
+## Standardizing Measures
+
+## Standardizing Pedagogy
+
+## Setting up TracDat
+
+## Registering Courses
+
+## Sending Assignments
+
+## Standardized Data Collection
+
+## Aggregating Student Data
+
+## Automating Reporting
+
+## Promoting Assessment
+
+## Disqus
+
+## Open Science Framework
+
+## GitHub
 
 ## Slide with Bullets
 <div id="left">

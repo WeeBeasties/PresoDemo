@@ -72,7 +72,12 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.0em; }
+  font-size: 2.0em;
+  line-height: 1em;
+  margin-top: 7px;
+  margin-left: 10%;
+  margin-right: 10px;
+}
 
 .reveal h2 {
   font-size: 1.5em; }
@@ -133,7 +138,10 @@ h3.date {
  * OTHER
  *********************************************/
 .reveal p {
-  margin: 20px 0;
+  margin-left: 10%;
+  margin-top: 0%;
+  margin-right: 10px;
+  margin-bottom: 10px;
   line-height: 1.4;
   text-align: left;}
 
