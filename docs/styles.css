@@ -1,8 +1,8 @@
-body:before {
-content: url(logo.png);
-position: fixed;
-top: 1.5em;
-left: 1.5em;
+body {
+  background-image: url(logo.png);
+  background-repeat: no-repeat;
+  background-position:20px 20px;
+  background-size:10%;
 }
 
 #left {
