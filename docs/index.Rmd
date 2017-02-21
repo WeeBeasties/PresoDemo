@@ -1,6 +1,6 @@
 ---
-title: Presentation Demo
-subtitle: This is sort of cool
+title: Presentation Demo Title That Probably Wraps
+subtitle: This is sort of cool subtitle, but it is rather long
 author: Dr. Clifton Franklund
 job: General Education Coordinator
 date: Spring 2017
